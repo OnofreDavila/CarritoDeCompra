@@ -2,7 +2,7 @@
 ## Descripcion de Proyecto
 Proyecto de Carro de compra creado con JavaScript. https://onofredavila.github.io/CarritoDeCompra/
 
-Este proyecto es un aprendizaje del curso en udemy dictado por el profesor Juan de la Torre (https://www.udemy.com/course/desarrollo-web-completo-con-html5-css3-js-php-y-mysql/).
+Este proyecto es un aprendizaje del curso en udemy dictado por el profesor Juan de la Torre (https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos/).
 
 Proyecto enfocado en la creacion de carro de compras con botones de limpieza de carro y eliminacion de items individuales.
 
