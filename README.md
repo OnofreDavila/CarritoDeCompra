@@ -1,6 +1,6 @@
 ## Carrito de Compra
 ## Descripcion de Proyecto
-Proyecto de Carro de compra creado con JavaScript. https://onofredavila.github.io/CarritoDeCompra/
+Proyecto de Carro de compra creado con JavaScript y LocalStorage. https://onofredavila.github.io/CarritoDeCompra/
 
 Este proyecto es un aprendizaje del curso en udemy dictado por el profesor Juan de la Torre (https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos/).
 
