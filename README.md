@@ -4,7 +4,7 @@ Proyecto de Carro de compra creado con JavaScript. https://onofredavila.github.i
 
 Este proyecto es un aprendizaje del curso en udemy dictado por el profesor Juan de la Torre (https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos/).
 
-Proyecto enfocado en la creacion de carro de compras con botones de limpieza de carro y eliminacion de items individuales.
+Proyecto enfocado en la creacion de carro de compras con el uso de LocalStorage, botones para aumentar, disminuir y eliminar los cursos.
 
 ## Autor
 Onofre Davila
